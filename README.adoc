@@ -32,5 +32,4 @@ with the latest technologies and best practices in software development.
 
 == Contact
 
-- rodrigo.faw@gmail.com 
 - https://linkedin.com/in/rodrigo-fp
